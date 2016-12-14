@@ -1,0 +1,17 @@
+$(SML_LIB)/smlnj-lib/Util/smlnj-lib.mlb
+$(SML_LIB)/smlnj-lib/RegExp/regexp-lib.mlb
+$(SML_LIB)/basis/basis.mlb
+$(SML_LIB)/cml/cml.mlb
+getopt/getopt.mlb
+json/sml-json.sml
+json.sml
+regexp.sml
+util.sml
+user.sml
+calendar.sml
+server.sml
+client.sml
+client-msgr.sml
+storage.sml
+ui.sml
+main.sml
